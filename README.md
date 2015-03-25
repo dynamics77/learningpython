@@ -1,3 +1,3 @@
 # learningpython
 
-Simple python scripts to help assimilate concepts learned on Programming for Everybody (Python) class. 
+Simple python scripts to help assimilate concepts learned in Programming for Everybody (Python) class. 
